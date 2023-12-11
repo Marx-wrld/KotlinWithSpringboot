@@ -1,15 +1,16 @@
 package com.kotlinspring.KotlinWithSpringboot.datasource
 
 import com.kotlinspring.KotlinWithSpringboot.model.Bank
-import org.springframework.stereotype.Component
+import org.springframework.stereotype.Repository
 
-@Component
+@Repository
+
 class BankDataSource {
-    // Dummy data for demonstration purposes
-    private val banks: Collection<Bank> = listOf(
-            Bank("ID1", "Bank A", 100.0),
-            Bank("ID2", "Bank B", 200.0)
-            // Add more banks as needed
+
+    val banks = listOf(
+        Bank("1234", "3.14", 17),
+        Bank("1010", "17.0", 10),
+        Bank("5678", "0.0", 100)
     )
 
     fun retrieveBanks(): Collection<Bank> {
