@@ -72,3 +72,7 @@ class BookController {
     }
 }
 ```
+#### 5. Run the Application
+
+Run your Spring Boot application. If you're using IntelliJ IDEA, you can run the DemoApplication class.
+
