@@ -1,5 +1,5 @@
 # KotlinWithSpringboot
-Kotlin with Spring Boot web application & JUnit5
+Kotlin with Spring Boot web application
 
 #### 1. Setting Up a Spring Boot Project
 You can use Spring Initializer to set up a new project. Visit https://start.spring.io/ and fill in the necessary details:
