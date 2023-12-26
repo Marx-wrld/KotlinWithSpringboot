@@ -18,3 +18,9 @@ Extract the downloaded zip file and open the project in your preferred Kotlin ID
 #### 3. Create a Kotlin Data Class
 
 Create a data class to represent your model. In `src/main/kotlin/com/example/demo/model`, create a file named `Book.kt`:
+
+```
+package com.example.demo.model
+
+data class Book(val id: Long, val title: String, val author: String)
+```
