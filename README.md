@@ -76,3 +76,11 @@ class BookController {
 
 Run your Spring Boot application. If you're using IntelliJ IDEA, you can run the DemoApplication class.
 
+#### 6. Test the API
+
+You can test your API using tools like Insomnia, Postman, or a web browser.
+
+- To get all books: `GET http://localhost:8080/api/books`
+- To add a book: `POST http://localhost:8080/api/books` with a JSON payload.
+- To update a book: `PUT http://localhost:8080/api/books/{id}` with a JSON payload.
+- To delete a book: `DELETE http://localhost:8080/api/books/{id}`
