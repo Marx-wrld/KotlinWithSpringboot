@@ -14,3 +14,7 @@ Click "Generate" to download the project zip file.
 #### 2. Extract and Open the Project
 
 Extract the downloaded zip file and open the project in your preferred Kotlin IDE. If you're using IntelliJ IDEA, it has excellent support for Kotlin.
+
+#### 3. Create a Kotlin Data Class
+
+Create a data class to represent your model. In `src/main/kotlin/com/example/demo/model`, create a file named `Book.kt`:
