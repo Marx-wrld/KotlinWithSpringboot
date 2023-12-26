@@ -24,3 +24,6 @@ package com.example.demo.model
 
 data class Book(val id: Long, val title: String, val author: String)
 ```
+#### 4. Create a Controller
+
+Create a controller to handle HTTP requests. In `src/main/kotlin/com/example/demo/controller`, create a file named `BookController.kt`
