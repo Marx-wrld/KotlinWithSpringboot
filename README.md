@@ -1,7 +1,7 @@
 # KotlinWithSpringboot
 Kotlin with Spring Boot, web application for starters.
 
-#### 1. Setting Up a Spring Boot Project
+#### 1. Setting Up a Kotlin-Spring Boot Project
 You can use Spring Initializer to set up a new project. Visit https://start.spring.io/ and fill in the necessary details:
 - Code editor: IntelliJ IDEA
 - Project: Gradle Project or Maven Project
