@@ -13,7 +13,7 @@ Click "Generate" to download the project zip file.
 
 #### 2. Extract and Open the Project
 
-Extract the downloaded zip file and open the project in your preferred Kotlin IDE. If you're using IntelliJ IDEA, it has excellent support for Kotlin.
+Extract the downloaded zip file and open the project in your preferred IDE. If you're using IntelliJ IDEA, it has excellent support for Kotlin.
 
 #### 3. Create a Kotlin Data Class
 
