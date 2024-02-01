@@ -76,7 +76,7 @@ class BookController {
 
 Run your Spring Boot application. If you're using IntelliJ IDEA, you can run the DemoApplication class.
 
-#### 6. Test the API
+#### 6. Test the APIs
 
 You can test your API using tools like Insomnia, Postman, or a web browser.
 
